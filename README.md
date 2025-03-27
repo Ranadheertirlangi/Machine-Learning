@@ -2,4 +2,4 @@
 
 Uploading a python notebook.
 
-Machine leanring Assignment
+Machine learning Assignment
